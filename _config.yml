@@ -52,12 +52,12 @@ round-avatar: true
 social-network-links:
   email: "jiayi.hou@bc.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#  facebook: deanattali
   github: jiayi-Hou
 #  twitter: daattali
 #  patreon: DeanAttali
  # youtube: "@daattali"
-  wechat: 15156983052
+    wechat: 15156983052
 
 #  telephone: +14159998888
 #  steam: deanat78
