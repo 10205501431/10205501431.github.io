@@ -12,12 +12,12 @@ I have equipped with such skills:
 - SQL
 - C++
 
-I also have talented in :
+- I also have talented in :
 - Data analytics
 - Business analytics
 - risk management
 
-What else do you need?
+- What else do you need?
 
 ### My story
 
