@@ -1,13 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My self introduction 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is jiayi Hou and you can call me Joe as well. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have equipped with such skills:
+
+- Python
+- SQL
+- C++
+
+I also have talented in :
+- Data analytics
+- Business analytics
+- risk management
 
 What else do you need?
 
